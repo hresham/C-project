@@ -1,7 +1,7 @@
 /*
 Author: Hrishi Resham
 Date: June 20, 2024
-Description: Implementation file for Assignment 2.
+Description: Implementation file.
 Usage: C/C++
 */
 
